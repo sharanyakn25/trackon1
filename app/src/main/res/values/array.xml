@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name = "Bus_Number">
+        <item>Bus_no_11_Kundapura</item>
+        <item>Bus_no_19_Kottara</item>
+        <item>Bus_no_22_Lady hill</item>
+        <item>Bus_no_14_Manipal</item>
+        <item>Bus_no_10_Moodabidre</item>
+    </string-array>
+</resources>
