@@ -48,7 +48,7 @@
         android:text="Please select your bus number"
         android:textColor="#FFB23E"
         android:textColorHighlight="#FFFFFF"
-        android:textColorLink="#837156"
+        android:textColorLink="#FFB23E"
         android:textSize="32dp"
         tools:layout_editor_absoluteX="75dp"
         tools:layout_editor_absoluteY="331dp" />
